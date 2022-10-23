@@ -27,7 +27,7 @@ h2 {
 }
 
 .line {
-  width: 112px;
+  width: 90px;
   height: 40px;
   border-top: 1px solid black;
   position: relative;
@@ -60,4 +60,8 @@ main {
   position: relative;
   top: -1px;
   margin-left: 10px;
+}
+
+.img-gift {
+  height: 300px;
 }
